@@ -4,3 +4,5 @@
 -git add 
 Зробити комміт
 -git commit -m "First commit"
+Переглянути історію всіх коммітів 
+-git log
