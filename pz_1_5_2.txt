@@ -6,3 +6,5 @@
 -git commit -m "First commit"
 Переглянути історію всіх коммітів 
 -git log
+Відправка змін на сервер
+-git push origin master
